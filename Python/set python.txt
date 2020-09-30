@@ -1,0 +1,2 @@
+set http_proxy=http://57290:Gab53607572@192.168.7.1:3128
+set https_proxy=http://57290:Gab53607572@192.168.7.1:3128
